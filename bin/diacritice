@@ -1,0 +1,2 @@
+require 'diacritice'
+puts Diacritice.hi(ARGV[0])
